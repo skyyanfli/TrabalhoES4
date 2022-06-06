@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "899379088019",
+    "firebase_url": "https://trabalhoes-d654c.firebaseio.com",
+    "project_id": "trabalhoes-d654c",
+    "storage_bucket": "trabalhoes-d654c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899379088019:android:e2eff81bc271dd04",
+        "android_client_info": {
+          "package_name": "com.example.trabalhoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899379088019-eoijej9t40llr6ovc54fh7k6lkdcjagi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trabalhoes",
+            "certificate_hash": "15196f7dad8119067fc8ce223fc55d6721ba7a96"
+          }
+        },
+        {
+          "client_id": "899379088019-n1tsd6cqrov9nhs2ugqufvctl5855m4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqmNUNdHnnCDaT5vO2UF0lhL7N17tGngc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899379088019-n1tsd6cqrov9nhs2ugqufvctl5855m4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
